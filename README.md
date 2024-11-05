@@ -15,7 +15,7 @@
 **<h3 align="left">Connect with me:</h3>** 
 <p align="left"><a href="https://www.linkedin.com/in/valerio-gambino" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a></p>
 
- **<h3 align="left">🚀 Full stackdeveloper wanna be. Started as Backend Developer then Frontend Developer now I wanna try to master both of them. I'm very passionate, when I find something that make me curious clock stop ticking and I enter in a full focus mode.</h3>**
+ **<h3 align="left">🚀 Full stackdeveloper wanna be. Started as Backend Developer, then Frontend Developer and now I wanna try to master both of them. I'm very passionate, when I find something that make me curious clock stop ticking and I enter in a full focus mode.</h3>**
 
 **<h3 align="left">Rapid Fire</h3>**
 
